@@ -81,14 +81,14 @@ https://109.86.226.85/AUv6.77.tar:
 
 ## Useful tips
 
-1. Periodical infection can be analyzed by:compare Date to grep'/dev/null, like:
+(1) Periodical infection can be analyzed by:compare Date to grep'/dev/null, like:
 ```
 2015-08-27 00:32:21 URL:https://173.216.247.74/ar77.zip [434422/434422] -> "/dev/null" [1]
 2015-08-27 00:32:30 URL:https://173.248.31.6/ar77.zip [434422/434422] -> "/dev/null" [1]
 2015-08-27 00:32:45 URL:https://180.233.123.210/ar77.zip [434422/434422] -> "/dev/null" [1]
 2015-08-27 00:32:58 URL:https://186.68.94.38/ar77.zip [434422/434422] -> "/dev/null" [1]
 ```
-2. A sample to grep to monitor the rogue certification cycle used:
+(2) A sample to grep to monitor the rogue certification cycle used:
 ```
 cat [RAW-RESULT.TXT]|grep 'certificate'|sed s/'WARNING\: cannot verify '//|grep 'issued by'
 ```
@@ -104,7 +104,7 @@ cat [RAW-RESULT.TXT]|grep 'certificate'|sed s/'WARNING\: cannot verify '//|grep 
 173.248.31.6's certificate, issued by 'CN=7ZNRS9n2EadRKsIEFD8MOsW4n,O=izTmH1EN84gyF4pO53X5SomZqi,L=VuhhndpqNy9GzYozjQt3pfn,ST=NZ,C=BA':
 176.36.251.208's certificate, issued by 'emailAddress=support@ubnt.com,CN=UBNT,OU=Technical Support,O=Ubiquiti Networks Inc.,L=San Jose,ST=CA,C=US':
 ```
-4. Crosschecking +alive routers* to *GeoIP* to seek infected location: 
+(3) Crosschecking +alive routers* to *GeoIP* to seek infected location: 
 i.e. example of infectious routers in United States by grep result with '| US |'
 ```
 (1): 173.216.247.74|173-216-247-74-brns.mid.dyn.suddenlink.net.|19108 | 173.216.0.0/16 | SUDDENLINK-COMMUNICA | US | suddenlink.com | Suddenlink Communications
@@ -115,15 +115,13 @@ i.e. example of infectious routers in United States by grep result with '| US |'
 (11): 24.148.217.188|user-0c99mds.cable.mindspring.com.|11426 | 24.148.192.0/19 | SCRR-11426 | US | earthlink.net | Earthlink Inc.
 (12): 24.33.131.116|cpe-24-33-131-116.cinci.res.rr.com.|10796 | 24.33.128.0/18 | SCRR-10796 | US | twcable.com | Time Warner Cable Internet LLC
 ```
-
 This data is shared for the clean up purpose. The other usage of this information will be required -
 mentioning good people who help gathering samples in VirusTotal and on cleaning up this infection.
-
-Monitoring scheme is scripted by @unixfreaxjp feel free to use under WTFPL license: http://www.wtfpl.net/about/
+Monitoring code was initially coded in bash by @unixfreaxjp under WTFPL license: http://www.wtfpl.net/about/
 *The script is not maintained anymore*
-
+```
 I only decoded some binaries & the rest are good decoding effort thanks to '@Techhelplistcom' < credit.
 Feel free to maintain this database to any of your "good purpose" (only), but please contribute an
  effort by at least contacting one ISP informing infection in their network for cleaning up request.
-
 For questions please contact at malwaremustdie in twitter 
+```
