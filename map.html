@@ -1,0 +1,64 @@
+<html><head>
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+    google.load('visualization', '1', {packages: ['geomap']});
+</script>
+<script type="text/javascript">
+    function drawVisualization() {
+    // Create and populate the data table.
+    var data = new google.visualization.DataTable();
+    data.addColumn('string', '', 'Country');
+    data.addColumn('number', 'Hosts');
+    data.addRows(12);    data.setValue(0, 0, 'RS');
+    data.setValue(0, 1, 6);
+    data.setValue(1, 0, 'CA');
+    data.setValue(1, 1, 4);
+    data.setValue(2, 0, 'EC');
+    data.setValue(2, 1, 2);
+    data.setValue(3, 0, 'NG');
+    data.setValue(3, 1, 3);
+    data.setValue(4, 0, 'SK');
+    data.setValue(4, 1, 1);
+    data.setValue(5, 0, 'CZ');
+    data.setValue(5, 1, 10);
+    data.setValue(6, 0, 'US');
+    data.setValue(6, 1, 41);
+    data.setValue(7, 0, 'SE');
+    data.setValue(7, 1, 1);
+    data.setValue(8, 0, 'IN');
+    data.setValue(8, 1, 12);
+    data.setValue(9, 0, 'HU');
+    data.setValue(9, 1, 2);
+    data.setValue(10, 0, 'UA');
+    data.setValue(10, 1, 3);
+    data.setValue(11, 0, 'PL');
+    data.setValue(11, 1, 19);
+
+    var geomap = new google.visualization.GeoMap(document.getElementById('geo_map'));
+    var options = {width:'1024', height:'768'};
+    geomap.draw(data, options);
+    }
+    google.setOnLoadCallback(drawVisualization);
+</script>
+</head>
+<body>
+<div id="geo_map" style="width: 1024px; height: 768px;">a</div>
+
+<br />
+<table border="0" bordercolor="#000000" style="background-color:#FFFFFF" cellpadding="0" cellspacing="3">
+<tr><td><strong>Country</strong></td><td><strong>Count</strong></td></tr>
+<tr><td>United States</td><td>41</td></tr>
+<tr><td>Poland</td><td>19</td></tr>
+<tr><td>India</td><td>12</td></tr>
+<tr><td>Czech Republic</td><td>10</td></tr>
+<tr><td>Serbia</td><td>6</td></tr>
+<tr><td>Canada</td><td>4</td></tr>
+<tr><td>Ukraine</td><td>3</td></tr>
+<tr><td>Nigeria</td><td>3</td></tr>
+<tr><td>Hungary</td><td>2</td></tr>
+<tr><td>Ecuador</td><td>2</td></tr>
+<tr><td>Sweden</td><td>1</td></tr>
+<tr><td>Slovakia</td><td>1</td></tr>
+</table>
+</body>
+</html>
