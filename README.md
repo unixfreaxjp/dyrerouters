@@ -3,7 +3,7 @@
 ## Statistic
 Statistic of hacked router GeoIP:
 ```
-Country		        Count
+Country         Count
 USA             41
 Poland          19
 India           12
