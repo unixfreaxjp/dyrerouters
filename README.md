@@ -1,6 +1,26 @@
 # dyrerouters
 
-## Use the script logic like below to monitor infection per new payload:
+## Statistic
+Statistic of hacked router GeoIP:
+```
+Country		Count
+United States	41
+Poland		19
+India		12
+Czech Republic	10
+Serbia		 6
+Canada		 4
+Ukraine		 3
+Nigeria		 3
+Hungary		 2
+Ecuador		 2
+Sweden		 1
+Slovakia	 1
+```
+
+## Usage
+
+Use the script logic like below to monitor infection per new payload:
 ```
 # @unixfreaxjp #MalwareMustDie shared info. Ver 3.0 under WTFL license.
 payload[0]='[payload1]';
@@ -19,8 +39,7 @@ echo;
 done
 exit 0;
 ```
-
-## [RAW-LOG.TXT] generated is useful for many checks, contains data like:
+[RAW-LOG.TXT] generated is useful for many checks, contains data like:
 ```
 109.86.226.85 AUv6.77.tar WARNING: cannot verify 109.86.226.85's certificate, is
 sued by 'CN=iS8Ifal9yEweDdUiQzm,O=MA8fw60oDpLUNZ8GEaQH2bQGGWw1Ix87MaZYZANfQTMjcD
@@ -58,22 +77,22 @@ https://109.86.226.85/AUv6.77.tar:
 2015-08-19 15:11:03 URL:https://67.207.229.215/AUv6.77.tar [431079/431079] -> "/dev/null" [1]
  
 67.22.167.163 AUv6.77.tar failed: Operation timed out.
-
 ```
 
-## Periodical infection can be analyzed by:compare Date to grep'/dev/null, like:
+## Useful tips
+
+1. Periodical infection can be analyzed by:compare Date to grep'/dev/null, like:
 ```
 2015-08-27 00:32:21 URL:https://173.216.247.74/ar77.zip [434422/434422] -> "/dev/null" [1]
 2015-08-27 00:32:30 URL:https://173.248.31.6/ar77.zip [434422/434422] -> "/dev/null" [1]
 2015-08-27 00:32:45 URL:https://180.233.123.210/ar77.zip [434422/434422] -> "/dev/null" [1]
 2015-08-27 00:32:58 URL:https://186.68.94.38/ar77.zip [434422/434422] -> "/dev/null" [1]
 ```
-
-## A sample to grep to monitor the rogue certification cycle used:
+2. A sample to grep to monitor the rogue certification cycle used:
 ```
 cat [RAW-RESULT.TXT]|grep 'certificate'|sed s/'WARNING\: cannot verify '//|grep 'issued by'
 ```
-result is like:
+   result is like:
 ```
 103.230.226.59's certificate, issued by 'CN=ELA5dx5SgQaNbe9,O=ejkiHMo6KSzSz67gtQpEyJ,L=UhzlBJ2GWd9NwmXoBIBBsRDDy7FNW,ST=BA,C=UQ':
 109.86.226.85's certificate, issued by 'CN=QsvxokZhxdISZyJJFdZQkY9tw8,O=xmpuE0ktjU5kc1vL1WbF,L=qGVqF6XwTA1vhL,ST=CI,C=SQ':
@@ -85,10 +104,8 @@ result is like:
 173.248.31.6's certificate, issued by 'CN=7ZNRS9n2EadRKsIEFD8MOsW4n,O=izTmH1EN84gyF4pO53X5SomZqi,L=VuhhndpqNy9GzYozjQt3pfn,ST=NZ,C=BA':
 176.36.251.208's certificate, issued by 'emailAddress=support@ubnt.com,CN=UBNT,OU=Technical Support,O=Ubiquiti Networks Inc.,L=San Jose,ST=CA,C=US':
 ```
-## Crosschecking and grep the alive routers IP with its location/routing DB to
-## select each specific network or country for cleaning up / blocking purpose: 
-i.e. below is the sample infectious routers in United States:
-grep snip sample
+4. Crosschecking +alive routers* to *GeoIP* to seek infected location: 
+i.e. example of infectious routers in United States by grep result with '| US |'
 ```
 (1): 173.216.247.74|173-216-247-74-brns.mid.dyn.suddenlink.net.|19108 | 173.216.0.0/16 | SUDDENLINK-COMMUNICA | US | suddenlink.com | Suddenlink Communications
 (2): 173.243.255.79|173.243.240.79.rhinocommunications.net.|17306 | 173.243.240.0/20 | RISE-BROADBAND | US | jabbroadband.com | Jab Wireless Inc.
