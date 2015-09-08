@@ -25,7 +25,7 @@
 193.106.193.74, , , , 0, None, Poland, 52.2333, 21.0167, Europe/Warsaw, EU
 194.28.190.84, , , , 0, None, Poland, 52.2333, 21.0167, Europe/Warsaw, EU
 194.28.191.245, , , , 0, None, Poland, 52.2333, 21.0167, Europe/Warsaw, EU
-194.106.166.22, , , , 0, None, Serbia, 44.0, 21.0, Europe/Belgrade, EU
+194.106.166.22, , , , 0, None, Serbia, 44.0, 21.0, Europe/Belgrade, EU 
 194.228.203.19, , , , 0, None, Czech Republic, 50.0833, 14.4167, Europe/Prague, EU
 195.117.119.117, , , , 0, None, Poland, 52.2333, 21.0167, Europe/Warsaw, EU
 197.149.65.34, , , , 0, None, Nigeria, 10.0, 8.0, Africa/Lagos, AF
