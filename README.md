@@ -119,8 +119,12 @@ Monitoring code was initially coded in bash by @unixfreaxjp under WTFPL license:
 
 ##Disclaimer:
 ```
-I (@unixfreaxjp) only decoded some binaries/not all & the rest are good decoding effort thanks to '@Techhelplistcom' < this good man deserves to credit.
-Feel free to use or and maintain this database to any of your "good purpose" (only), and you only required to please contribute an effort by at least contacting ONE ISP network near your place, and informing ONE hacked router that is causing Dyre (or etc) malware infection in their network for the cleaning up request.
+I (@unixfreaxjp) only decoded some binaries/not all & the rest are good decoding effort 
+thanks to '@Techhelplistcom' < this good man deserves to credit.
+Feel free to use or and maintain this database to any of your "good purpose" (only), and you
+only required to please contribute an effort by at least contacting ONE ISP network near your 
+place, and informing ONE hacked router that is causing Dyre (or etc) malware infection in their
+network for the cleaning up request.
 ```
 *For any questions please contact at malwaremustdie in twitter*
 
