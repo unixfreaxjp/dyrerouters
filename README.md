@@ -10,7 +10,7 @@ India           12
 Czech           10
 Serbia          6
 Canada          4
-*Ukraine	        3*
+Ukraine	        3
 Nigeria	        3
 Hungary	        2
 Ecuador	        2
