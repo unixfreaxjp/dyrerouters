@@ -1,0 +1,104 @@
+103.230.226.59||132566 | 103.230.226.0/24 | SKYNET-AS | IN | - | Skynet Broadband Plus Solution
+104.174.123.66|cpe-104-174-123-66.socal.res.rr.com.|20001 | 104.172.0.0/14 | ROADRUNNER-WEST | US | twcable.com | Time Warner Cable Internet LLC
+109.236.121.91||5578 | 109.236.112.0/20 | GTS-SK | CZ | gts.sk | Levonet s.r.o.
+109.86.226.85|85.226.86.109.triolan.net.|13188 | 109.86.224.0/22 | BANKINFORM | UA | triolan.net | Content Delivery Network Ltd
+110.172.144.7||18002 | 110.172.144.0/24 | WORLDPHONE | IN | apmcazadpurdelhi.com | Azadpur Delhi
+112.133.203.43||24186 | 112.133.203.0/24 | RAILTEL-AS | IN | - | Sonipat
+150.129.48.162||132519 | 150.129.48.0/24 | SIKKACABLE-AS |  | sikkanet.com | Sikka Cable
+150.129.48.171||132519 | 150.129.48.0/24 | SIKKACABLE-AS | IN | sikkanet.com | Sikka Cable
+150.129.49.11||45942 | 150.129.48.0/22 | SIKKANET-AS | IN | sikkanet.com | Sikka Cable
+162.153.189.143|mta-162-153-189-143.kya.rr.com.|10796 | 162.152.0.0/14 | SCRR-10796 | US | twcable.com | Time Warner Cable Internet LLC
+173.216.247.74|173-216-247-74-brns.mid.dyn.suddenlink.net.|19108 | 173.216.0.0/16 | SUDDENLINK-COMMUNICA | US | suddenlink.com | Suddenlink Communications
+173.243.255.79|173.243.240.79.rhinocommunications.net.|17306 | 173.243.240.0/20 | RISE-BROADBAND | US | jabbroadband.com | Jab Wireless Inc.
+173.248.31.6|cameron-31-6.dsl.chibardun.net.|26472 | 173.248.24.0/21 | CHIBARDUN-TEL | US | mosaictelecom.net | Mosaic Telecom
+176.36.251.208|host-176-36-251-208.la.net.ua.|39608 | 176.36.0.0/16 | LANETUA | UA | lanet.ua | Lanet Network Ltd
+178.222.250.35|178-222-250-35.static.isp.telekom.rs.|8400 | 178.220.0.0/14 | TELEKOM | RS | telekom.rs | Telekom Srbija ADSL Users
+180.233.123.210|AS45942.180.233.123.210.lucknow.sikkanet.com.|45942 | 180.233.123.0/24 | SIKKANET-AS | IN | sikkanet.com | Sikka Broadband Pvt. Ltd.
+186.68.94.38|38.cpe-186-68-94.gye.satnet.net.|14522 | 186.68.80.0/20 | Satnet,E | EC | satnet.net | Larisa Lotizacion la Ribera S.A.
+188.125.38.100|apn-188-125-38-100.static.gprs.plus.pl.|8374 | 188.125.32.0/19 | PLUSNET | PL | polkomtel.com.pl | Polkomtel Sp. z o.o.
+188.137.122.42||13000 | 188.137.0.0/17 | LEON | PL | leon.pl | Leon Sp. z o.o.
+188.255.236.184|free-236-184.mediaworksit.net.|52116 | 188.255.236.0/22 | ORIONTELEKOMTIM | RS | oriontelekom.rs | Orion Telekom Tim d.o.o.Beograd
+188.255.239.34|free-239-34.mediaworksit.net.|52116 | 188.255.236.0/22 | ORIONTELEKOMTIM | RS | oriontelekom.rs | Orion Telekom Tim d.o.o.Beograd
+188.255.243.105|free-243-105.mediaworksit.net.|52116 | 188.255.242.0/23 | ORIONTELEKOMTIM | RS | oriontelekom.rs | Orion Telekom Tim d.o.o.Beograd
+190.152.19.142|142.pichincha.andinanet.net.|14420 | 190.152.18.0/23 | CORPORACION | EC | cnt.com.ec | Corporacion Nacional de Telecomunicaciones - CNT EP
+193.43.231.104|193.43.231.104.komnet24.pl.|50625 | 193.43.228.0/22 | KROSOFT | PL | komnet24.pl | FHU Komnet Grzegorz Poltorak
+193.106.193.74||196901 | 193.106.192.0/22 | OKK1 | PL | - | OmegaNet Krzysztof Kaluzny
+194.28.190.84||51068 | 194.28.188.0/22 | AGANET | PL | dc.net.pl | AgaNet Agata Goleniewska
+194.28.191.245||51068 | 194.28.188.0/22 | AGANET | PL | dc.net.pl | AgaNet Agata Goleniewska
+194.106.166.22||6700 | 194.106.166.0/24 | BEOTEL | RS | - | InterCom Computers
+194.228.203.19|19.telenet.cz.|5610 | 194.228.192.0/18 | O2-CZECH | CZ | telenet.cz | Komenskeho
+195.117.119.117||5617 | 195.117.0.0/16 | TPNET | PL | sky-com.pl | Alfa - Komputer System
+197.149.65.34||35074 | 197.149.65.0/24 | COBRANET | LB | ugo.ng | UGO
+197.210.199.21||29465 | 197.210.0.0/16 | VCG | NG | vgccl.net | MTN Nigeria
+197.210.215.76||29465 | 197.210.0.0/16 | VCG | NG | mtnnigeria.net | Enterpriseclients Publiclan
+199.192.214.102|199-192-214-102.ruralwave.ca.|46525 | 199.192.212.0/22 | RURALWAVE-LTD | CA | ruralwave.ca | Rural Wave
+203.115.103.27|ncr-103-27.primenet.in.|17426 | 203.115.103.0/24 | PRIMENET-AS | IN | primenet.in | Bright Brother Roj-Ka-Meo Gurgaon
+203.129.197.50||7633 | 203.129.197.0/24 | SOFTNET-AS | IN | soft.net | Software Technology Parks of India
+208.117.68.78||16832 | 208.117.64.0/20 | SECOM-1 | US | secom.net | Secom Inc
+209.27.49.117|209-27-49-117.kyle.eotnet.net.|55246 | 209.27.48.0/22 | EASTERN-OREGON-TELEC | US | eotnet.net | Eastern Oregon Telecom
+209.40.238.170||32393 | 209.40.232.0/21 | BDN | US | browndognetworks.com | Brown Dog Networks
+213.92.138.154|213-92-138-154.serv-net.pl.|41256 | 213.92.128.0/20 | SERVCOM | PL | serv-net.pl | Servcom Sp. z o.o.
+216.16.93.250|stormlakeDHCP-250.216-16-93.knology.net.|12083 | 216.16.92.0/22 | WOW-INTERNET | US | knology.net | PrairieWave Static Host Assignment
+216.254.231.11|watertownDHCP-11.216-254-231.knology.net.|12083 | 216.254.228.0/22 | WOW-INTERNET | US | knology.net | PrairieWave Cable Modem DHCP
+217.168.210.122|IP-10-122.trionet.cz.|47232 | 217.168.208.0/21 | GRAPESC | CZ | trionet.cz | TRIOPTIMUM s.r.o.
+24.148.217.188|user-0c99mds.cable.mindspring.com.|11426 | 24.148.192.0/19 | SCRR-11426 | US | earthlink.net | Earthlink Inc.
+24.220.92.193|host-193-92-220-24.midco.net.|11232 | 24.220.64.0/18 | MIDCO-NET | US | midcocomm.com | MidContinent Media Inc
+24.33.131.116|cpe-24-33-131-116.cinci.res.rr.com.|10796 | 24.33.128.0/18 | SCRR-10796 | US | twcable.com | Time Warner Cable Internet LLC
+27.109.20.53||17625 | 27.109.20.0/24 | BLAZENET-IN | IN | blazenet.biz | Blazenet Pvt Ltd
+31.47.104.232|ip232.gw1.hanafree.net.|8251 | 31.47.96.0/20 | NFX_ZSPO | CZ | officehouse.cz | Freetel S.R.O.
+37.57.144.177|177.144.57.37.triolan.net.|13188 | 37.57.144.0/24 | BANKINFORM | UA | triolan.net | Content Delivery Network Ltd
+45.64.159.107|AS45942.45.64.159.107.lucknow.sikkanet.com.|45942 | 45.64.156.0/22 | SIKKANET-AS | IN | sikkanet.com | Gomti Cable Network Pvt Ltd
+45.64.159.18|AS45942.45.64.159.18.lucknow.sikkanet.com.|45942 | 45.64.156.0/22 | SIKKANET-AS | IN | sikkanet.com | Gomti Cable Network Pvt Ltd
+46.238.89.52|e89-52.icpnet.pl.|13110 | 46.238.64.0/18 | INEA | PL | inea.pl | Inea S.A.
+63.248.156.246|63-248-156-246.static.layl0102.digis.net.|23205 | 63.248.128.0/19 | DIGIS-23205 | US | jabbroadband.com | Jab Wireless Inc.
+64.111.36.52|64-111-36-52.static.fiber4.net.|62943 | 64.111.36.0/24 | AS62943-BLUEBIRD-NET |  | mwdata.net | Midwest Data Center
+64.111.42.64|64.111.42.64.dsl.marktwain.net.|62943 | 64.111.42.0/24 | AS62943-BLUEBIRD-NET |  | marktwain.net | Mark Twain Rural Telephone Co.
+65.33.236.173|65-33-236-173.res.bhn.net.|33363 | 65.32.0.0/15 | BHN-TAMPA | US | twcable.com | Time Warner Cable Internet LLC
+66.171.106.73|c66-171-106-73.cablelan.net.|6327 | 66.171.106.0/23 | SHAW | CA | masconcable.ca | Mascon Cable Systems Inc.
+66.215.30.118|66-215-30-118.dhcp.mtpk.ca.charter.com.|20115 | 66.215.0.0/19 | CHARTER-NET-HKY-NC | US | charter.net | Charter Communications
+67.221.147.66||46882 | 67.221.144.0/20 | RCM-AS001 | CA | rhizone.ca | RhiCom Networks Inc.
+67.221.156.165||46882 | 67.221.144.0/20 | RCM-AS001 | CA | rhizone.ca | RhiCom Networks Inc.
+67.206.96.68||8025 | 67.206.96.0/19 | BRIGHTOK-AS | US | chickasawphone.com | Chickasaw Telephone
+67.207.229.215|swoid229p215-d.swoi.brightok.net.|8025 | 67.207.224.0/19 | BRIGHTOK-AS | US | brightok.net | Southwest Oklahoma Internet
+67.22.167.163|price-east-fttx-67-22-167-163.dynamic.etv.net.|36728 | 67.22.160.0/20 | EMERYTELCOM | US | emerytelcom.com | Emery Telcom
+67.221.195.6|67-221-195-6.static.fiber4.net.|62943 | 67.221.195.0/24 | AS62943-BLUEBIRD-NET |  | mwdata.net | Midwest Data Center
+67.222.197.54|ip-dhcp-67-222-197-54.dsl.blr.abbnebraska.com.|16604 | 67.222.192.0/20 | HUNTEL-NET | US | huntel.net | Huntel.net
+67.222.201.222|ip-dhcp-67-222-201-222.dsl.blr.abbnebraska.com.|16604 | 67.222.192.0/20 | HUNTEL-NET | US | huntel.net | Huntel.net
+67.222.201.61|ip-dhcp-67-222-201-61.dsl.blr.abbnebraska.com.|16604 | 67.222.192.0/20 | HUNTEL-NET | US | huntel.net | Huntel.net
+68.119.5.32|68-119-5-32.dhcp.unas.wa.charter.com.|20115 | 68.119.0.0/20 | CHARTER-NET-HKY-NC | US | charter.net | Charter Communications
+68.55.59.145|c-68-55-59-145.hsd1.mi.comcast.net.|7922 | 68.32.0.0/11 | COMCAST-7922 | US | comcast.net | Comcast Cable Communications Inc.
+68.70.242.203|cablepool6-203.ranchomurieta.org.|46514 | 68.70.242.0/24 | RANCHOMURIETAASSOCIA | US | ranchomurieta.org | Rancho Murieta Association
+69.144.171.44|host-69-144-171-44.static.bresnan.net.|33588 | 69.144.0.0/15 | BRESNAN-AS | US | charter.net | Charter Communications
+69.163.81.211||11924 | 69.163.81.0/24 | MONTANA-OPTICOM | US | mt-opticom.com | Montana Opticom LLC
+69.8.50.85||8025 | 69.8.0.0/18 | BRIGHTOK-AS | US | paradoxnetworks.net | Southwest Oklahoma Internet
+69.9.204.114|host-114-204-9-69-static.midco.net.|11232 | 69.9.192.0/18 | MIDCO-NET | US | midco.net | MN Wireless
+72.171.9.146|host72171001469.direcway.com.|6621 | 72.171.0.0/19 | HNS-DIRECPC | US | hughes.com | Hughes Network Systems
+72.174.240.148|host-72-174-240-148.lam-co.client.bresnan.net.|33588 | 72.174.0.0/15 | BRESNAN-AS | US | charter.net | Charter Communications
+72.175.10.116|host-72-175-10-116.rdl-mt.client.bresnan.net.|33588 | 72.174.0.0/15 | BRESNAN-AS | US | charter.net | Charter Communications
+72.230.82.80|cpe-72-230-82-80.twcny.res.rr.com.|11351 | 72.230.0.0/16 | RR-NYSREGION-ASN-01 | US | twcable.com | Time Warner Cable Internet LLC
+76.84.81.120|cpe-76-84-81-120.neb.res.rr.com.|11427 | 76.84.0.0/16 | SCRR-11427 | US | twcable.com | Time Warner Cable Internet LLC
+77.48.30.156||6830 | 77.48.0.0/17 | LGI | AT | takin.cz | Radynet s.r.o.
+78.108.101.67||8251 | 78.108.96.0/20 | NFX_ZSPO | CZ | officehouse.cz | Freetel S.R.O.
+78.72.233.105|78-72-233-105-no168.business.telia.com.|3301 | 78.64.0.0/12 | TELIANET | SE | telia.com | Telia Network Services
+79.187.34.150|hbi150.internetdsl.tpnet.pl.|5617 | 79.184.0.0/13 | TPNET | PL | easynet.com | Static IP
+79.187.241.107|hjh107.internetdsl.tpnet.pl.|5617 | 79.184.0.0/13 | TPNET | PL | easynet.com | Static IP
+79.188.45.226|hlt226.internetdsl.tpnet.pl.|5617 | 79.184.0.0/13 | TPNET | PL | easynet.com | Static IP
+80.48.160.146||5617 | 80.48.0.0/14 | TPNET | PL | jeziorany.com.pl | Netservice Danuta Wojda
+80.51.120.214|komp80.51.120.214.unipol.net.pl.|5617 | 80.48.0.0/14 | TPNET | PL | unipol.net.pl | PHU UniNET Joanna Mioduszewska
+81.90.175.7||25036 | 81.90.160.0/20 | TERMSNET | CZ | scnet.cz | Internethome S.R.O.
+81.93.205.218|rev.81-93-205-218.rednet.hu.|24991 | 81.93.204.0/22 | DATATRANS | HU | datatrans.hu | Datatrans Internet Ltd
+81.93.205.251|rev.81-93-205-251.rednet.hu.|24991 | 81.93.204.0/22 | DATATRANS | HU | datatrans.hu | Datatrans Internet Ltd
+82.115.76.211|static-76-211.is.net.pl.|16340 | 82.115.64.0/19 | IS | PL | is.net.pl | Internet Solutions ISP
+82.160.64.45||20960 | 82.160.0.0/16 | TKTELEKOM | PL | tktelekom.pl | PHU Setup-Komputery
+84.246.161.47|glwifi.ic.cz.|39761 | 84.246.160.0/21 | ABAK | CZ | wendulka.net | Abak Ltd.
+85.135.104.170||30764 | 85.135.0.0/17 | PODA | CZ | poda.cz | PODA a.s.
+87.249.142.189|kaspar.p.3.sdl.core.ttnet.cz.|34040 | 87.249.128.0/19 | CZTTNET | CZ | ttnet.cz | TTNET s.r.o.
+89.174.116.76||6714 | 89.174.0.0/16 | ATOMNET | PL | inter-sat.pl | Przedsiebiorstwo Handlowo-Uslugowe Inter-Sat
+91.235.162.167|c167.integron.pl.|198497 | 91.235.160.0/22 | ACSELEKTRONIK | PL | integron.pl | ACS Elektronik Karol Antonkiewicz
+94.141.130.9|9-host.alfa.pl.|12618 | 94.141.128.0/19 | PL-BYDMAN | PL | utp.edu.pl | University of Technology and Agriculture in Bydgoszcz
+94.154.107.172|free-94-154-107-172.kingsnet.rs.|56843 | 94.154.107.0/24 | KINGSNET | RS | kingsnet.rs | Kingsnet d.o.o.
+95.143.141.50|95-143-141-50.client.ltnet.cz.|196782 | 95.143.128.0/20 | LTNET | CZ | ispalliance.cz | ISP Alliance a.s.
+98.102.44.38|rrcs-98-102-44-38.central.biz.rr.com.|10796 | 98.102.0.0/15 | SCRR-10796 | US | twcable.com | Time Warner Cable Internet LLC
+98.181.17.39|ip98-181-17-39.br.br.cox.net.|22773 | 98.181.0.0/18 | ASN-CXA-ALL-CCI-2277 | US | cox.com | Cox Communications
+98.209.75.164|c-98-209-75-164.hsd1.mi.comcast.net.|7922 | 98.192.0.0/10 | COMCAST-7922 | US | comcast.net | Comcast Cable Communications Inc.
+98.214.11.253|c-98-214-11-253.hsd1.il.comcast.net.|7922 | 98.192.0.0/10 | COMCAST-7922 | US | comcast.net | Comcast Cable Communications Inc.
