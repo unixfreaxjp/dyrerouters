@@ -1,0 +1,292 @@
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Connection refused.
+WARNING: cannot verify 109.86.226.85's certificate, issued by 'emailAddress=katoqhambhtftf@drczjl.com,OU=Burlington Coat Factory Warehouse Corporation,CN=Sutherland Poirier,O=Burlington Coat Factory Warehouse Corporation,L=Pearl City,ST=Hawaii,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Sutherland Poirier' doesn't match requested host name '109.86.226.85'.
+https://109.86.226.85/gblend18.zip:
+2015-09-08 20:42:26 ERROR 403: Forbidden.
+failed: Operation timed out.
+WARNING: cannot verify 112.133.203.43's certificate, issued by 'emailAddress=qfykabkai@dpgacruacey.com,OU=Hon Industries Inc.,CN=Foster Elliot,O=Hon Industries Inc.,L=Rockville,ST=Minnesota,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Foster Elliot' doesn't match requested host name '112.133.203.43'.
+2015-09-08 20:42:38 URL:https://112.133.203.43/gblend18.zip [475410/475410] -> "/dev/null" [1]
+failed: Connection refused.
+failed: Connection refused.
+WARNING: cannot verify 150.129.49.11's certificate, issued by 'emailAddress=eskldavwi@npsaafq.com,OU=Johnson Controls Inc.,CN=Gallagher Unverzagt,O=Johnson Controls Inc.,L=Palmyra,ST=Pennsylvania,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Gallagher Unverzagt' doesn't match requested host name '150.129.49.11'.
+2015-09-08 20:43:08 URL:https://150.129.49.11/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 162.153.189.143's certificate, issued by 'emailAddress=support@ubnt.com,CN=UBNT,OU=Technical Support,O=Ubiquiti Networks Inc.,L=San Jose,ST=CA,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'UBNT' doesn't match requested host name '162.153.189.143'.
+2015-09-08 20:43:10 URL:https://162.153.189.143/login.cgi?uri=/gblend18.zip [3276] -> "/dev/null" [1]
+WARNING: cannot verify 173.216.247.74's certificate, issued by 'emailAddress=eskldavwi@npsaafq.com,OU=Johnson Controls Inc.,CN=Gallagher Unverzagt,O=Johnson Controls Inc.,L=Palmyra,ST=Pennsylvania,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Gallagher Unverzagt' doesn't match requested host name '173.216.247.74'.
+2015-09-08 20:43:14 URL:https://173.216.247.74/gblend18.zip [475410/475410] -> "/dev/null" [1]
+failed: Operation timed out.
+WARNING: cannot verify 173.248.31.6's certificate, issued by 'emailAddress=izjdbeoj@xdslgblo.com,OU=R.R. Donnelley & Sons Company,CN=Carter Muske,O=R.R. Donnelley & Sons Company,L=West Islip,ST=New York,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Carter Muske' doesn't match requested host name '173.248.31.6'.
+2015-09-08 20:43:24 URL:https://173.248.31.6/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 176.36.251.208's certificate, issued by 'emailAddress=support@ubnt.com,CN=UBNT,OU=Technical Support,O=Ubiquiti Networks Inc.,L=San Jose,ST=CA,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'UBNT' doesn't match requested host name '176.36.251.208'.
+2015-09-08 20:43:27 URL:https://176.36.251.208/login.cgi?uri=/gblend18.zip [3243] -> "/dev/null" [1]
+failed: Operation timed out.
+WARNING: cannot verify 180.233.123.210's certificate, issued by 'emailAddress=vlwpkbci@sizranw.com,OU=Trans World Entertainment Corp.,CN=Potter Macraild,O=Trans World Entertainment Corp.,L=Geyserville,ST=California,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Potter Macraild' doesn't match requested host name '180.233.123.210'.
+2015-09-08 20:43:37 URL:https://180.233.123.210/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 186.68.94.38's certificate, issued by 'emailAddress=vlwpkbci@sizranw.com,OU=Trans World Entertainment Corp.,CN=Potter Macraild,O=Trans World Entertainment Corp.,L=Geyserville,ST=California,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Potter Macraild' doesn't match requested host name '186.68.94.38'.
+2015-09-08 20:43:45 URL:https://186.68.94.38/gblend18.zip [475410/475410] -> "/dev/null" [1]
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+WARNING: cannot verify 188.255.239.34's certificate, issued by 'emailAddress=support@ubnt.com,CN=UBNT,OU=Technical Support,O=Ubiquiti Networks Inc.,L=San Jose,ST=CA,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'UBNT' doesn't match requested host name '188.255.239.34'.
+2015-09-08 20:44:03 URL:https://188.255.239.34/login.cgi?uri=/gblend18.zip [2924] -> "/dev/null" [1]
+WARNING: cannot verify 188.255.243.105's certificate, issued by 'emailAddress=support@ubnt.com,CN=UBNT,OU=Technical Support,O=Ubiquiti Networks Inc.,L=San Jose,ST=CA,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'UBNT' doesn't match requested host name '188.255.243.105'.
+2015-09-08 20:44:05 URL:https://188.255.243.105/login.cgi?uri=/gblend18.zip [2924] -> "/dev/null" [1]
+failed: Connection refused.
+WARNING: cannot verify 193.43.231.104's certificate, issued by 'emailAddress=vlwpkbci@sizranw.com,OU=Trans World Entertainment Corp.,CN=Potter Macraild,O=Trans World Entertainment Corp.,L=Geyserville,ST=California,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Potter Macraild' doesn't match requested host name '193.43.231.104'.
+2015-09-08 20:44:16 URL:https://193.43.231.104/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 193.106.193.74's certificate, issued by 'emailAddress=izjdbeoj@xdslgblo.com,OU=R.R. Donnelley & Sons Company,CN=Carter Muske,O=R.R. Donnelley & Sons Company,L=West Islip,ST=New York,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Carter Muske' doesn't match requested host name '193.106.193.74'.
+2015-09-08 20:44:22 URL:https://193.106.193.74/gblend18.zip [475410/475410] -> "/dev/null" [1]
+failed: Operation timed out.
+WARNING: cannot verify 194.28.191.245's certificate, issued by 'emailAddress=izjdbeoj@xdslgblo.com,OU=R.R. Donnelley & Sons Company,CN=Carter Muske,O=R.R. Donnelley & Sons Company,L=West Islip,ST=New York,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Carter Muske' doesn't match requested host name '194.28.191.245'.
+2015-09-08 20:44:33 URL:https://194.28.191.245/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 194.106.166.22's certificate, issued by 'CN=Lzz6UX6YT6BsvQPRFgyudDYpEF3IJwDNhPElxnMJI4,O=1Al8e91rTb8A2THfKf7qcCJsjMlVwhkKQpa9wvKT8B2,L=pyMjEvHXtHsV8y6ZozLzQkcMux1A,ST=XR,C=AU':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Lzz6UX6YT6BsvQPRFgyudDYpEF3IJwDNhPElxnMJI4' doesn't match requested host name '194.106.166.22'.
+https://194.106.166.22/gblend18.zip:
+2015-09-08 20:44:35 ERROR 403: Forbidden.
+failed: Operation timed out.
+WARNING: cannot verify 195.117.119.117's certificate, issued by 'emailAddress=support@ubnt.com,CN=UBNT,OU=Technical Support,O=Ubiquiti Networks Inc.,L=San Jose,ST=CA,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'UBNT' doesn't match requested host name '195.117.119.117'.
+2015-09-08 20:44:43 URL:https://195.117.119.117/login.cgi?uri=/gblend18.zip [3294] -> "/dev/null" [1]
+failed: Operation timed out.
+WARNING: cannot verify 197.210.199.21's certificate, issued by 'emailAddress=qfykabkai@dpgacruacey.com,OU=Hon Industries Inc.,CN=Foster Elliot,O=Hon Industries Inc.,L=Rockville,ST=Minnesota,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Foster Elliot' doesn't match requested host name '197.210.199.21'.
+2015-09-08 20:45:02 URL:https://197.210.199.21/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 197.210.215.76's certificate, issued by 'emailAddress=gzygelncjdhv@cqcjjon.com,OU=DIMON Incorporated,CN=Kian Standing,O=DIMON Incorporated,L=Round Lake,ST=Illinois,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Kian Standing' doesn't match requested host name '197.210.215.76'.
+2015-09-08 20:45:26 URL:https://197.210.215.76/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 199.192.214.102's certificate, issued by 'emailAddress=izjdbeoj@xdslgblo.com,OU=R.R. Donnelley & Sons Company,CN=Carter Muske,O=R.R. Donnelley & Sons Company,L=West Islip,ST=New York,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Carter Muske' doesn't match requested host name '199.192.214.102'.
+2015-09-08 20:45:32 URL:https://199.192.214.102/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 203.115.103.27's certificate, issued by 'emailAddress=yailfgi@rlmyzkcckhey.com,OU=OGE Energy Corp,CN=Stephens Meads,O=OGE Energy Corp,L=Stanton,ST=Kentucky,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Stephens Meads' doesn't match requested host name '203.115.103.27'.
+2015-09-08 20:45:42 URL:https://203.115.103.27/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 203.129.197.50's certificate, issued by 'emailAddress=izjdbeoj@xdslgblo.com,OU=R.R. Donnelley & Sons Company,CN=Carter Muske,O=R.R. Donnelley & Sons Company,L=West Islip,ST=New York,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Carter Muske' doesn't match requested host name '203.129.197.50'.
+WARNING: cannot verify 208.117.68.78's certificate, issued by 'emailAddress=tvkngvh@dzvmcitec.com,OU=Collins & Aikman Corp.,CN=Imogen Mccoll,O=Collins & Aikman Corp.,L=Mayo,ST=Florida,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Imogen Mccoll' doesn't match requested host name '208.117.68.78'.
+2015-09-08 20:46:39 URL:https://208.117.68.78/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 209.27.49.117's certificate, issued by 'emailAddress=qfykabkai@dpgacruacey.com,OU=Hon Industries Inc.,CN=Foster Elliot,O=Hon Industries Inc.,L=Rockville,ST=Minnesota,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Foster Elliot' doesn't match requested host name '209.27.49.117'.
+2015-09-08 20:46:51 URL:https://209.27.49.117/gblend18.zip [475410/475410] -> "/dev/null" [1]
+failed: Operation timed out.
+WARNING: cannot verify 213.92.138.154's certificate, issued by 'emailAddress=qfykabkai@dpgacruacey.com,OU=Hon Industries Inc.,CN=Foster Elliot,O=Hon Industries Inc.,L=Rockville,ST=Minnesota,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Foster Elliot' doesn't match requested host name '213.92.138.154'.
+failed: Operation timed out.
+WARNING: cannot verify 216.254.231.11's certificate, issued by 'emailAddress=qfykabkai@dpgacruacey.com,OU=Hon Industries Inc.,CN=Foster Elliot,O=Hon Industries Inc.,L=Rockville,ST=Minnesota,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Foster Elliot' doesn't match requested host name '216.254.231.11'.
+2015-09-08 20:47:40 URL:https://216.254.231.11/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 217.168.210.122's certificate, issued by 'emailAddress=qfykabkai@dpgacruacey.com,OU=Hon Industries Inc.,CN=Foster Elliot,O=Hon Industries Inc.,L=Rockville,ST=Minnesota,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Foster Elliot' doesn't match requested host name '217.168.210.122'.
+2015-09-08 20:47:46 URL:https://217.168.210.122/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 24.148.217.188's certificate, issued by 'emailAddress=yqazkaef@lwarqdwq.com,OU=Watsco Inc,CN=Natalie Kemp,O=Watsco Inc,L=Tie Plant,ST=Mississippi,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Natalie Kemp' doesn't match requested host name '24.148.217.188'.
+2015-09-08 20:47:51 URL:https://24.148.217.188/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 24.220.92.193's certificate, issued by 'emailAddress=support@ubnt.com,CN=UBNT,OU=Technical Support,O=Ubiquiti Networks Inc.,L=San Jose,ST=CA,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'UBNT' doesn't match requested host name '24.220.92.193'.
+2015-09-08 20:47:53 URL:https://24.220.92.193/login.cgi?uri=/gblend18.zip [3276] -> "/dev/null" [1]
+WARNING: cannot verify 24.33.131.116's certificate, issued by 'emailAddress=yqazkaef@lwarqdwq.com,OU=Watsco Inc,CN=Natalie Kemp,O=Watsco Inc,L=Tie Plant,ST=Mississippi,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Natalie Kemp' doesn't match requested host name '24.33.131.116'.
+2015-09-08 20:47:58 URL:https://24.33.131.116/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 27.109.20.53's certificate, issued by 'emailAddress=yqazkaef@lwarqdwq.com,OU=Watsco Inc,CN=Natalie Kemp,O=Watsco Inc,L=Tie Plant,ST=Mississippi,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Natalie Kemp' doesn't match requested host name '27.109.20.53'.
+2015-09-08 20:48:04 URL:https://27.109.20.53/gblend18.zip [475410/475410] -> "/dev/null" [1]
+failed: Connection refused.
+WARNING: cannot verify 37.57.144.177's certificate, issued by 'emailAddress=yqazkaef@lwarqdwq.com,OU=Watsco Inc,CN=Natalie Kemp,O=Watsco Inc,L=Tie Plant,ST=Mississippi,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Natalie Kemp' doesn't match requested host name '37.57.144.177'.
+2015-09-08 20:48:13 URL:https://37.57.144.177/gblend18.zip [475410/475410] -> "/dev/null" [1]
+failed: Connection refused.
+WARNING: cannot verify 45.64.159.18's certificate, issued by 'emailAddress=qfykabkai@dpgacruacey.com,OU=Hon Industries Inc.,CN=Foster Elliot,O=Hon Industries Inc.,L=Rockville,ST=Minnesota,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Foster Elliot' doesn't match requested host name '45.64.159.18'.
+2015-09-08 20:48:50 URL:https://45.64.159.18/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 46.238.89.52's certificate, issued by 'CN=bEX2p5mqjpmDuRrAdMcg4WZMX53WuJ,O=4FHwvUz4kxhLA03ifMgFs8WLOji6ykSPFVjd2I7QtiDtSuJRK5rw6NaEk,L=5GuRVLratxOcZYm72,ST=EJ,C=KI':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'bEX2p5mqjpmDuRrAdMcg4WZMX53WuJ' doesn't match requested host name '46.238.89.52'.
+https://46.238.89.52/gblend18.zip:
+2015-09-08 20:48:52 ERROR 403: Forbidden.
+WARNING: cannot verify 63.248.156.246's certificate, issued by 'emailAddress=wgedibip@pslheqxh.com,OU=Hon Industries Inc.,CN=Eleanor Sproul,O=Hon Industries Inc.,L=Vesper,ST=Wisconsin,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Eleanor Sproul' doesn't match requested host name '63.248.156.246'.
+2015-09-08 20:48:58 URL:https://63.248.156.246/gblend18.zip [475410/475410] -> "/dev/null" [1]
+failed: Operation timed out.
+WARNING: cannot verify 64.111.42.64's certificate, issued by 'emailAddress=support@ubnt.com,CN=UBNT,OU=Technical Support,O=Ubiquiti Networks Inc.,L=San Jose,ST=CA,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'UBNT' doesn't match requested host name '64.111.42.64'.
+2015-09-08 20:49:05 URL:https://64.111.42.64/login.cgi?uri=/gblend18.zip [3243] -> "/dev/null" [1]
+WARNING: cannot verify 65.33.236.173's certificate, issued by 'emailAddress=wgedibip@pslheqxh.com,OU=Hon Industries Inc.,CN=Eleanor Sproul,O=Hon Industries Inc.,L=Vesper,ST=Wisconsin,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Eleanor Sproul' doesn't match requested host name '65.33.236.173'.
+2015-09-08 20:49:21 URL:https://65.33.236.173/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 66.171.106.73's certificate, issued by 'emailAddress=izjdbeoj@xdslgblo.com,OU=R.R. Donnelley & Sons Company,CN=Carter Muske,O=R.R. Donnelley & Sons Company,L=West Islip,ST=New York,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Carter Muske' doesn't match requested host name '66.171.106.73'.
+2015-09-08 20:49:26 URL:https://66.171.106.73/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 66.215.30.118's certificate, issued by 'emailAddress=support@ubnt.com,CN=UBNT,OU=Technical Support,O=Ubiquiti Networks Inc.,L=San Jose,ST=CA,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'UBNT' doesn't match requested host name '66.215.30.118'.
+2015-09-08 20:49:27 URL:https://66.215.30.118/login.cgi?uri=/gblend18.zip [3276] -> "/dev/null" [1]
+WARNING: cannot verify 67.221.147.66's certificate, issued by 'emailAddress=qfykabkai@dpgacruacey.com,OU=Hon Industries Inc.,CN=Foster Elliot,O=Hon Industries Inc.,L=Rockville,ST=Minnesota,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Foster Elliot' doesn't match requested host name '67.221.147.66'.
+2015-09-08 20:49:39 URL:https://67.221.147.66/gblend18.zip [475410/475410] -> "/dev/null" [1]
+failed: Operation timed out.
+failed: No route to host.
+WARNING: cannot verify 67.207.229.215's certificate, issued by 'emailAddress=qfykabkai@dpgacruacey.com,OU=Hon Industries Inc.,CN=Foster Elliot,O=Hon Industries Inc.,L=Rockville,ST=Minnesota,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Foster Elliot' doesn't match requested host name '67.207.229.215'.
+2015-09-08 20:50:05 URL:https://67.207.229.215/gblend18.zip [475410/475410] -> "/dev/null" [1]
+failed: Operation timed out.
+WARNING: cannot verify 67.221.195.6's certificate, issued by 'emailAddress=hbvffdmp@qibqtoy.com,OU=Transocean Inc,CN=Danielle Prydee,O=Transocean Inc,L=Beulah,ST=North Dakota,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Danielle Prydee' doesn't match requested host name '67.221.195.6'.
+2015-09-08 20:50:16 URL:https://67.221.195.6/gblend18.zip [475410/475410] -> "/dev/null" [1]
+failed: Operation timed out.
+WARNING: cannot verify 67.222.201.222's certificate, issued by 'emailAddress=izjdbeoj@xdslgblo.com,OU=R.R. Donnelley & Sons Company,CN=Carter Muske,O=R.R. Donnelley & Sons Company,L=West Islip,ST=New York,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Carter Muske' doesn't match requested host name '67.222.201.222'.
+2015-09-08 20:50:30 URL:https://67.222.201.222/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 67.222.201.61's certificate, issued by 'emailAddress=izjdbeoj@xdslgblo.com,OU=R.R. Donnelley & Sons Company,CN=Carter Muske,O=R.R. Donnelley & Sons Company,L=West Islip,ST=New York,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Carter Muske' doesn't match requested host name '67.222.201.61'.
+2015-09-08 20:50:37 URL:https://67.222.201.61/gblend18.zip [475410/475410] -> "/dev/null" [1]
+failed: Operation timed out.
+OpenSSL: error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol
+Unable to establish SSL connection.
+WARNING: cannot verify 68.70.242.203's certificate, issued by 'emailAddress=esrnouto@uerbxglkph.com,OU=Cox Communications Inc.,CN=Jasmine Meisner,O=Cox Communications Inc.,L=Midland,ST=Ontario,C=CA':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Jasmine Meisner' doesn't match requested host name '68.70.242.203'.
+2015-09-08 20:50:48 URL:https://68.70.242.203/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 69.144.171.44's certificate, issued by 'emailAddress=qfykabkai@dpgacruacey.com,OU=Hon Industries Inc.,CN=Foster Elliot,O=Hon Industries Inc.,L=Rockville,ST=Minnesota,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Foster Elliot' doesn't match requested host name '69.144.171.44'.
+2015-09-08 20:50:55 URL:https://69.144.171.44/gblend18.zip [475410/475410] -> "/dev/null" [1]
+failed: Operation timed out.
+failed: No route to host.
+WARNING: cannot verify 69.9.204.114's certificate, issued by 'emailAddress=esrnouto@uerbxglkph.com,OU=Cox Communications Inc.,CN=Jasmine Meisner,O=Cox Communications Inc.,L=Midland,ST=Ontario,C=CA':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Jasmine Meisner' doesn't match requested host name '69.9.204.114'.
+2015-09-08 20:51:06 URL:https://69.9.204.114/gblend18.zip [475410/475410] -> "/dev/null" [1]
+failed: Operation timed out.
+failed: Operation timed out.
+WARNING: cannot verify 72.175.10.116's certificate, issued by 'emailAddress=izjdbeoj@xdslgblo.com,OU=R.R. Donnelley & Sons Company,CN=Carter Muske,O=R.R. Donnelley & Sons Company,L=West Islip,ST=New York,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Carter Muske' doesn't match requested host name '72.175.10.116'.
+2015-09-08 20:51:25 URL:https://72.175.10.116/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 72.230.82.80's certificate, issued by 'emailAddress=anquoeiflbitye@fmnwni.com,OU=ALLETE\\, Inc.,CN=Read Hansel,O=ALLETE\\, Inc.,L=Jarrettsville,ST=Maryland,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Read Hansel' doesn't match requested host name '72.230.82.80'.
+2015-09-08 20:51:30 URL:https://72.230.82.80/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 76.84.81.120's certificate, issued by 'emailAddress=qfykabkai@dpgacruacey.com,OU=Hon Industries Inc.,CN=Foster Elliot,O=Hon Industries Inc.,L=Rockville,ST=Minnesota,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Foster Elliot' doesn't match requested host name '76.84.81.120'.
+2015-09-08 20:51:34 URL:https://76.84.81.120/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 77.48.30.156's certificate, issued by 'emailAddress=qfykabkai@dpgacruacey.com,OU=Hon Industries Inc.,CN=Foster Elliot,O=Hon Industries Inc.,L=Rockville,ST=Minnesota,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Foster Elliot' doesn't match requested host name '77.48.30.156'.
+2015-09-08 20:51:43 URL:https://77.48.30.156/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 78.108.101.67's certificate, issued by 'emailAddress=anquoeiflbitye@fmnwni.com,OU=ALLETE\\, Inc.,CN=Read Hansel,O=ALLETE\\, Inc.,L=Jarrettsville,ST=Maryland,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Read Hansel' doesn't match requested host name '78.108.101.67'.
+2015-09-08 20:51:49 URL:https://78.108.101.67/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 78.72.233.105's certificate, issued by 'emailAddress=qfykabkai@dpgacruacey.com,OU=Hon Industries Inc.,CN=Foster Elliot,O=Hon Industries Inc.,L=Rockville,ST=Minnesota,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Foster Elliot' doesn't match requested host name '78.72.233.105'.
+2015-09-08 20:52:02 URL:https://78.72.233.105/gblend18.zip [475410/475410] -> "/dev/null" [1]
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+failed: Operation timed out.
+WARNING: cannot verify 80.51.120.214's certificate, issued by 'emailAddress=xvouvflgvmxye@yejajdzdh.com,OU=The Clorox Co.,CN=Dan Randol,O=The Clorox Co.,L=Meyersdale,ST=Pennsylvania,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Dan Randol' doesn't match requested host name '80.51.120.214'.
+2015-09-08 20:52:38 URL:https://80.51.120.214/gblend18.zip [475410/475410] -> "/dev/null" [1]
+failed: Operation timed out.
+WARNING: cannot verify 81.93.205.218's certificate, issued by 'emailAddress=xvouvflgvmxye@yejajdzdh.com,OU=The Clorox Co.,CN=Dan Randol,O=The Clorox Co.,L=Meyersdale,ST=Pennsylvania,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Dan Randol' doesn't match requested host name '81.93.205.218'.
+2015-09-08 20:52:55 URL:https://81.93.205.218/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 81.93.205.251's certificate, issued by 'emailAddress=xvouvflgvmxye@yejajdzdh.com,OU=The Clorox Co.,CN=Dan Randol,O=The Clorox Co.,L=Meyersdale,ST=Pennsylvania,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Dan Randol' doesn't match requested host name '81.93.205.251'.
+2015-09-08 20:53:02 URL:https://81.93.205.251/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 82.115.76.211's certificate, issued by 'emailAddress=xvouvflgvmxye@yejajdzdh.com,OU=The Clorox Co.,CN=Dan Randol,O=The Clorox Co.,L=Meyersdale,ST=Pennsylvania,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Dan Randol' doesn't match requested host name '82.115.76.211'.
+2015-09-08 20:53:12 URL:https://82.115.76.211/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 82.160.64.45's certificate, issued by 'emailAddress=izjdbeoj@xdslgblo.com,OU=R.R. Donnelley & Sons Company,CN=Carter Muske,O=R.R. Donnelley & Sons Company,L=West Islip,ST=New York,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Carter Muske' doesn't match requested host name '82.160.64.45'.
+failed: Operation timed out.
+WARNING: cannot verify 85.135.104.170's certificate, issued by 'emailAddress=xveerorh@dguonhg.com,OU=OfficeMax Inc,CN=Davey Mcinnes,O=OfficeMax Inc,L=Glidden,ST=Iowa,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Davey Mcinnes' doesn't match requested host name '85.135.104.170'.
+2015-09-08 20:54:06 URL:https://85.135.104.170/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 87.249.142.189's certificate, issued by 'emailAddress=xveerorh@dguonhg.com,OU=OfficeMax Inc,CN=Davey Mcinnes,O=OfficeMax Inc,L=Glidden,ST=Iowa,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Davey Mcinnes' doesn't match requested host name '87.249.142.189'.
+2015-09-08 20:54:14 URL:https://87.249.142.189/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 89.174.116.76's certificate, issued by 'emailAddress=xveerorh@dguonhg.com,OU=OfficeMax Inc,CN=Davey Mcinnes,O=OfficeMax Inc,L=Glidden,ST=Iowa,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Davey Mcinnes' doesn't match requested host name '89.174.116.76'.
+2015-09-08 20:54:32 URL:https://89.174.116.76/gblend18.zip [475410/475410] -> "/dev/null" [1]
+WARNING: cannot verify 91.235.162.167's certificate, issued by 'CN=e421DG6d9OAaAw,O=3Duks49W8A4yRVhxv19Emaljmb7Co,L=b1rAasOwgXzHeObvTdQv2FP,ST=WN,C=JD':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'e421DG6d9OAaAw' doesn't match requested host name '91.235.162.167'.
+https://91.235.162.167/gblend18.zip:
+2015-09-08 20:54:34 ERROR 403: Forbidden.
+WARNING: cannot verify 94.141.130.9's certificate, issued by 'emailAddress=qfykabkai@dpgacruacey.com,OU=Hon Industries Inc.,CN=Foster Elliot,O=Hon Industries Inc.,L=Rockville,ST=Minnesota,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'Foster Elliot' doesn't match requested host name '94.141.130.9'.
+2015-09-08 20:54:44 URL:https://94.141.130.9/gblend18.zip [475410/475410] -> "/dev/null" [1]
+failed: Operation timed out.
+failed: Connection refused.
+WARNING: cannot verify 98.102.44.38's certificate, issued by 'emailAddress=support@ubnt.com,CN=UBNT,OU=Technical Support,O=Ubiquiti Networks Inc.,L=San Jose,ST=CA,C=US':
+  Self-signed certificate encountered.
+    WARNING: certificate common name 'UBNT' doesn't match requested host name '98.102.44.38'.
+2015-09-08 20:54:51 URL:https://98.102.44.38/login.cgi?uri=/gblend18.zip [3258] -> "/dev/null" [1]
