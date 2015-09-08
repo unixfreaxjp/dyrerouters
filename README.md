@@ -56,6 +56,8 @@ ed host name '109.86.226.85'.
 104.174.123.66 AUv6.77.tar failed: Operation timed out.
  
 109.236.121.91 AUv6.77.tar failed: Connection refused.
+
+67.206.96.68 AUv6.77.tar failed: No route to host.
  
 109.86.226.85 AUv6.77.tar WARNING: cannot verify 109.86.226.85's certificate, issued by 'CN=iS8Ifal9yEweDdUiQzm,O=MA8fw60oDpLUNZ8GEaQH2bQGGWw1Ix87MaZYZANfQTMjcDdLhEQRi4DabtYqzDnJ,L=xpIxFIrCJDFPqfAs5NQHs097nSk5fZlgtDsFD8P2lAvJX3TRZOFEW4cDuXkDmDT24003zcff5C9b,ST=PX,C=NY':
  Self-signed certificate encountered.
@@ -72,15 +74,6 @@ https://109.86.226.85/AUv6.77.tar:
  Self-signed certificate encountered.
    WARNING: certificate common name 'cAvWp6IY477or7Zq58YWDDv9CMoGxeBN3l2zFFzLJPFzWDXu' doesn't match requested host name '194.106.166.22'.
 2015-08-19 15:07:22 URL:https://194.106.166.22/AUv6.77.tar [431079/431079] -> "/dev/null" [1]
- 
-67.206.96.68 AUv6.77.tar failed: No route to host.
- 
-67.207.229.215 AUv6.77.tar WARNING: cannot verify 67.207.229.215's certificate, issued by 'CN=haL2vYd4uDwcGEmvxkMtgQHW,O=46NJb9RdBfLYEeehH4T9iq2CHx5Bg,L=QhHqeC6sZs,ST=BO,C=JC':
- Self-signed certificate encountered.
-   WARNING: certificate common name 'haL2vYd4uDwcGEmvxkMtgQHW' doesn't match requested host name '67.207.229.215'.
-2015-08-19 15:11:03 URL:https://67.207.229.215/AUv6.77.tar [431079/431079] -> "/dev/null" [1]
- 
-67.22.167.163 AUv6.77.tar failed: Operation timed out.
 ```
 
 ## Useful tips
