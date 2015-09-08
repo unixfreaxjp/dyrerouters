@@ -17,6 +17,10 @@ Ecuador	        2
 Sweden	        1
 Slovakia        1
 ```
+Amount of up & alive routers actively proxy Dyre payload:
+```
+47
+```
 
 ## Usage
 
