@@ -24,7 +24,7 @@ Amount of up & alive routers actively proxy Dyre payload:
 
 ## Usage
 
-Use the script logic like below to monitor infection per new payload:
+Use the script logic like below to monitor infection per new payload :
 ```
 # @unixfreaxjp #MalwareMustDie shared info. Ver 3.0 under WTFL license.
 payload[0]='[payload1]';
