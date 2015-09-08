@@ -16,7 +16,7 @@
 180.233.123.210|AS45942.180.233.123.210.lucknow.sikkanet.com.|45942 | 180.233.123.0/24 | SIKKANET-AS | IN | sikkanet.com | Sikka Broadband Pvt. Ltd.
 186.68.94.38|38.cpe-186-68-94.gye.satnet.net.|14522 | 186.68.80.0/20 | Satnet,E | EC | satnet.net | Larisa Lotizacion la Ribera S.A.
 188.125.38.100|apn-188-125-38-100.static.gprs.plus.pl.|8374 | 188.125.32.0/19 | PLUSNET | PL | polkomtel.com.pl | Polkomtel Sp. z o.o.
-188.137.122.42||13000 | 188.137.0.0/17 | LEON | PL | leon.pl | Leon Sp. z o.o.
+188.137.122.42||13000 | 188.137.0.0/17 | LEON | PL | leon.pl | Leon Sp. z o.o
 188.255.236.184|free-236-184.mediaworksit.net.|52116 | 188.255.236.0/22 | ORIONTELEKOMTIM | RS | oriontelekom.rs | Orion Telekom Tim d.o.o.Beograd
 188.255.239.34|free-239-34.mediaworksit.net.|52116 | 188.255.236.0/22 | ORIONTELEKOMTIM | RS | oriontelekom.rs | Orion Telekom Tim d.o.o.Beograd
 188.255.243.105|free-243-105.mediaworksit.net.|52116 | 188.255.242.0/23 | ORIONTELEKOMTIM | RS | oriontelekom.rs | Orion Telekom Tim d.o.o.Beograd
