@@ -1,0 +1,104 @@
+103.230.226.59, , , , 0, None, India, 20.0, 77.0, Asia/Calcutta, AS
+104.174.123.66, , , , 0, None, United States, 38.0, -97.0, , NA
+109.236.121.91, , , , 0, None, Slovakia, 48.6667, 19.5, Europe/Bratislava, EU
+109.86.226.85, , , , 0, None, Ukraine, 50.45, 30.5233, , EU
+110.172.144.7, New Delhi, , 07, 0, None, India, 28.6, 77.2, Asia/Calcutta, AS
+112.133.203.43, , , , 0, None, India, 20.0, 77.0, Asia/Calcutta, AS
+150.129.48.162, Sikka, , 36, 0, None, India, 29.5058, 77.3658, Asia/Calcutta, AS
+150.129.48.171, Sikka, , 36, 0, None, India, 29.5058, 77.3658, Asia/Calcutta, AS
+150.129.49.11, Sikka, , 36, 0, None, India, 29.5058, 77.3658, Asia/Calcutta, AS
+162.153.189.143, , , , 0, None, United States, 38.0, -97.0, , NA
+173.216.247.74, Branson, 65616, MO, 417, Springfield MO, United States, 36.6696, -93.2615, America/Chicago, NA
+173.243.255.79, Durant, 74701, OK, 580, Sherman TX, United States, 33.995, -96.3917, America/Chicago, NA
+173.248.31.6, Cameron, 54822, WI, 715, Minneapolis-St Paul MN, United States, 45.3905, -91.6764, America/Chicago, NA
+176.36.251.208, , , , 0, None, Ukraine, 50.45, 30.5233, , EU
+178.222.250.35, Belgrade, , 00, 0, None, Serbia, 44.8186, 20.4681, Europe/Belgrade, EU
+180.233.123.210, , , , 0, None, India, 20.0, 77.0, Asia/Calcutta, AS
+186.68.94.38, Guayaquil, , 10, 0, None, Ecuador, -2.1667, -79.9, America/Guayaquil, SA
+188.125.38.100, Warsaw, 04-741, 78, 0, None, Poland, 52.25, 21.0, Europe/Warsaw, EU
+188.137.122.42, , , , 0, None, Poland, 52.2333, 21.0167, Europe/Warsaw, EU
+188.255.236.184, Beograd, , 00, 0, None, Serbia, 44.8186, 20.4681, Europe/Belgrade, EU
+188.255.239.34, Beograd, , 00, 0, None, Serbia, 44.8186, 20.4681, Europe/Belgrade, EU
+188.255.243.105, Beograd, , 00, 0, None, Serbia, 44.8186, 20.4681, Europe/Belgrade, EU
+190.152.19.142, Quito, , 18, 0, None, Ecuador, -0.2167, -78.5, None, SA
+193.43.231.104, Grzegorz, , 73, 0, None, Poland, 53.2304, 18.68, Europe/Warsaw, EU
+193.106.193.74, , , , 0, None, Poland, 52.2333, 21.0167, Europe/Warsaw, EU
+194.28.190.84, , , , 0, None, Poland, 52.2333, 21.0167, Europe/Warsaw, EU
+194.28.191.245, , , , 0, None, Poland, 52.2333, 21.0167, Europe/Warsaw, EU
+194.106.166.22, , , , 0, None, Serbia, 44.0, 21.0, Europe/Belgrade, EU
+194.228.203.19, , , , 0, None, Czech Republic, 50.0833, 14.4167, Europe/Prague, EU
+195.117.119.117, , , , 0, None, Poland, 52.2333, 21.0167, Europe/Warsaw, EU
+197.149.65.34, , , , 0, None, Nigeria, 10.0, 8.0, Africa/Lagos, AF
+197.210.199.21, , , , 0, None, Nigeria, 10.0, 8.0, Africa/Lagos, AF
+197.210.215.76, , , , 0, None, Nigeria, 10.0, 8.0, Africa/Lagos, AF
+199.192.214.102, Cannington, , ON, 0, None, Canada, 44.35, -79.0333, America/Rainy_River, NA
+203.115.103.27, , , , 0, None, India, 20.0, 77.0, Asia/Calcutta, AS
+203.129.197.50, , , , 0, None, India, 20.0, 77.0, Asia/Calcutta, AS
+208.117.68.78, Olney Springs, 81062, CO, 719, Colorado Springs CO, United States, 38.3241, -103.9486, America/Denver, NA
+209.27.49.117, , , , 0, None, United States, 38.0, -97.0, , NA
+209.40.238.170, Saint Louis, 63110, MO, 314, St Louis MO, United States, 38.6253, -90.2694, America/Chicago, NA
+213.92.138.154, , , , 0, None, Poland, 52.2333, 21.0167, Europe/Warsaw, EU
+216.16.93.250, Storm Lake, 50588, IA, 712, Sioux City IA, United States, 42.6765, -95.1615, America/Chicago, NA
+216.254.231.11, Sikeston, 63801, MO, 573, Paducah KY, United States, 36.8985, -89.5669, America/Chicago, NA
+217.168.210.122, , , , 0, None, Czech Republic, 50.0833, 14.4167, Europe/Prague, EU
+24.148.217.188, Charlotte, 28215, NC, 704, Charlotte NC, United States, 35.2527, -80.6929, America/New_York, NA
+24.220.92.193, Grand Forks, 58201, ND, 701, Fargo-Valley City ND, United States, 47.8719, -97.1503, America/Chicago, NA
+24.33.131.116, Dayton, 45424, OH, 937, Dayton OH, United States, 39.8453, -84.1122, None, NA
+27.109.20.53, Gold, , 12, 0, None, India, 33.5889, 74.1444, Asia/Calcutta, AS
+31.47.104.232, Naklo, 783 32, 84, 0, None, Czech Republic, 49.6552, 17.1326, Europe/Prague, EU
+37.57.144.177, , , , 0, None, Ukraine, 50.45, 30.5233, , EU
+45.64.159.107, Lucknow, , 36, 0, None, India, 26.85, 80.9167, Asia/Calcutta, AS
+45.64.159.18, Lucknow, , 36, 0, None, India, 26.85, 80.9167, Asia/Calcutta, AS
+46.238.89.52, , , , 0, None, Poland, 52.2333, 21.0167, Europe/Warsaw, EU
+63.248.156.246, Morgan, 84050, UT, 801, Salt Lake City UT, United States, 41.0105, -111.6782, America/Denver, NA
+64.111.36.52, Tarkio, 64491, MO, 660, Omaha NE, United States, 40.4518, -95.3419, America/Chicago, NA
+64.111.42.64, Lewistown, 63452, MO, 573, Quincy IL, United States, 40.1165, -91.7447, America/Chicago, NA
+65.33.236.173, Winter Haven, 33884, FL, 863, Tampa FL, United States, 27.9731, -81.6736, America/New_York, NA
+66.171.106.73, Salmon Arm, V1E, BC, 0, None, Canada, 50.6998, -119.2691, America/Vancouver, NA
+66.215.30.118, , , , 0, None, United States, 38.0, -97.0, , NA
+67.221.147.66, Blue River, , BC, 0, None, Canada, 52.1, -119.3, America/Vancouver, NA
+67.221.156.165, Kamloops, V2E, BC, 0, None, Canada, 50.6667, -120.3333, America/Vancouver, NA
+67.206.96.68, Hollis, 73550, OK, 580, Oklahoma City OK, United States, 34.686, -99.8602, America/Chicago, NA
+67.207.229.215, Altus, 73521, OK, 580, Wichita Falls TX, United States, 34.6182, -99.2732, America/Chicago, NA
+67.22.167.163, Price, 84501, UT, 435, Salt Lake City UT, United States, 39.5751, -110.8024, America/Denver, NA
+67.221.195.6, Columbia, 65203, MO, 573, Columbia-Jefferson City MO, United States, 38.8817, -92.402, America/Chicago, NA
+67.222.197.54, Blair, 68008, NE, 402, Omaha NE, United States, 41.538, -96.1944, America/Chicago, NA
+67.222.201.222, Blair, 68008, NE, 402, Omaha NE, United States, 41.538, -96.1944, America/Chicago, NA
+67.222.201.61, Blair, 68008, NE, 402, Omaha NE, United States, 41.538, -96.1944, America/Chicago, NA
+68.119.5.32, Kennewick, 99338, WA, 509, Seattle-Tacoma WA, United States, 46.1669, -119.2541, America/Los_Angeles, NA
+68.55.59.145, Towson, 21286, MD, 410, Baltimore MD, United States, 39.4157, -76.5718, America/New_York, NA
+68.70.242.203, Alpharetta, 30022, GA, 770, Atlanta GA, United States, 34.0204, -84.2445, America/New_York, NA
+69.144.171.44, Livingston, 59047, MT, 406, Billings MT, United States, 45.7068, -110.5392, America/Denver, NA
+69.163.81.211, Bozeman, 59718, MT, 406, Butte-Bozeman MT, United States, 45.6511, -111.1777, America/Denver, NA
+69.8.50.85, Duke, 73532, OK, 580, Wichita Falls TX, United States, 34.6449, -99.5973, America/Chicago, NA
+69.9.204.114, Rapid City, 57701, SD, 605, Rapid City SD, United States, 44.1209, -103.1978, America/Chicago, NA
+72.171.9.146, , , , 0, None, United States, 38.0, -97.0, , NA
+72.174.240.148, Helena, 59601, MT, 406, Helena MT, United States, 46.5172, -112.1211, America/Denver, NA
+72.175.10.116, , , , 0, None, United States, 38.0, -97.0, , NA
+72.230.82.80, Manlius, 13104, NY, 315, Syracuse NY, United States, 42.9624, -75.9603, America/New_York, NA
+76.84.81.120, Lincoln, 68510, NE, 402, Lincoln-Hastings NE, United States, 40.8057, -96.6444, America/Chicago, NA
+77.48.30.156, Ceska, 664 31, 78, 0, None, Czech Republic, 49.2814, 16.5648, Europe/Prague, EU
+78.108.101.67, Jalubi, 687 05, 90, 0, None, Czech Republic, 49.1154, 17.4277, Europe/Prague, EU
+78.72.233.105, Mora, 792 01, 10, 0, None, Sweden, 61.0, 14.55, Europe/Stockholm, EU
+79.187.34.150, , , , 0, None, Poland, 52.2333, 21.0167, Europe/Warsaw, EU
+79.187.241.107, Kraków, 30-523, 77, 0, None, Poland, 50.0833, 19.9167, Europe/Warsaw, EU
+79.188.45.226, , , , 0, None, Poland, 52.2333, 21.0167, Europe/Warsaw, EU
+80.48.160.146, , , , 0, None, Poland, 52.2333, 21.0167, Europe/Warsaw, EU
+80.51.120.214, , , , 0, None, Poland, 52.2333, 21.0167, Europe/Warsaw, EU
+81.90.175.7, , , , 0, None, Czech Republic, 50.0833, 14.4167, Europe/Prague, EU
+81.93.205.218, , , , 0, None, Hungary, 47.4925, 19.0514, Europe/Budapest, EU
+81.93.205.251, , , , 0, None, Hungary, 47.4925, 19.0514, Europe/Budapest, EU
+82.115.76.211, Polska, , 73, 0, None, Poland, 52.5931, 19.0894, Europe/Warsaw, EU
+82.160.64.45, , , , 0, None, Poland, 52.2333, 21.0167, Europe/Warsaw, EU
+84.246.161.47, Prague, 16100, 52, 0, None, Czech Republic, 50.0833, 14.4667, Europe/Prague, EU
+85.135.104.170, , , , 0, None, Czech Republic, 50.0833, 14.4167, Europe/Prague, EU
+87.249.142.189, , , , 0, None, Czech Republic, 50.0833, 14.4167, Europe/Prague, EU
+89.174.116.76, Myszków, 42-300, 83, 0, None, Poland, 50.5833, 19.35, Europe/Warsaw, EU
+91.235.162.167, Szydlowiec, 26-500, 78, 0, None, Poland, 51.2249, 20.8586, Europe/Warsaw, EU
+94.141.130.9, Bydgoszcz, 85-001, 73, 0, None, Poland, 53.1271, 18.02, Europe/Warsaw, EU
+94.154.107.172, , , , 0, None, Serbia, 44.0, 21.0, Europe/Belgrade, EU
+95.143.141.50, , , , 0, None, Czech Republic, 50.0833, 14.4167, Europe/Prague, EU
+98.102.44.38, , , , 0, None, United States, 38.0, -97.0, , NA
+98.181.17.39, Baton Rouge, 70809, LA, 225, Baton Rouge LA, United States, 30.3838, -91.0598, America/Chicago, NA
+98.209.75.164, Grand Rapids, 49509, MI, 616, Grand Rapids MI, United States, 42.8988, -85.7059, America/New_York, NA
+98.214.11.253, Freeport, 61032, IL, 815, Rockford IL, United States, 42.3238, -89.6218, America/Chicago, NA
