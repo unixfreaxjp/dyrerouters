@@ -4,18 +4,18 @@
 Statistic of hacked router GeoIP:
 ```
 Country		Count
-United States	41
-Poland		19
-India		12
-Czech Republic	10
-Serbia		 6
-Canada		 4
-Ukraine		 3
-Nigeria		 3
-Hungary		 2
-Ecuador		 2
-Sweden		 1
-Slovakia	 1
+USA             41
+Poland          19
+India           12
+Czech           10
+Serbia          6
+Canada          4
+*Ukraine	        3*
+Nigeria	        3
+Hungary	        2
+Ecuador	        2
+Sweden	        1
+Slovakia        1
 ```
 
 ## Usage
