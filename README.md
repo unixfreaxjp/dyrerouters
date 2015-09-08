@@ -116,9 +116,12 @@ This data is shared for the clean up purpose. The other usage of this informatio
 mentioning good people who help gathering samples in VirusTotal and on cleaning up this infection.
 Monitoring code was initially coded in bash by @unixfreaxjp under WTFPL license: http://www.wtfpl.net/about/
 *The script is not maintained anymore*
+
+##Disclaimer:
 ```
-I only decoded some binaries & the rest are good decoding effort thanks to '@Techhelplistcom' < credit.
-Feel free to maintain this database to any of your "good purpose" (only), but please contribute an
- effort by at least contacting one ISP informing infection in their network for cleaning up request.
-For questions please contact at malwaremustdie in twitter 
+I (@unixfreaxjp) only decoded some binaries/not all & the rest are good decoding effort thanks to '@Techhelplistcom' < this good man deserves to credit.
+Feel free to use or and maintain this database to any of your "good purpose" (only), and you only required to please contribute an effort by at least contacting ONE ISP network near your place, and informing ONE hacked router that is causing Dyre (or etc) malware infection in their network for the cleaning up request.
 ```
+*For any questions please contact at malwaremustdie in twitter*
+
+malwaremustdie.org, 2015
