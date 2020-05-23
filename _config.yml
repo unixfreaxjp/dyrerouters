@@ -1,0 +1,8 @@
+title: DyreRouters
+description: Open project to monitor abused routers that infect Dyre malware
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
